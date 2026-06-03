@@ -1,1 +1,1 @@
-# iris
+# iris // Developed an unsupervised machine learning model to identify hidden patterns and group customers based on purchasing behavior, Applied clustering algorithms such as K means to segment customers into distinct groups to evaluate cluster performance to generate actionable insights
